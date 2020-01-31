@@ -1,2 +1,0 @@
-# projekt-emil
-Projekt [EMIL]
