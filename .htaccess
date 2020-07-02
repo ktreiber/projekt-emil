@@ -1,5 +1,0 @@
-RewriteEngine On
-RewriteCond %{SERVER_PORT} !=443
-RewriteRule ^(.*)$ https://projekt-emil.info/$1 [R=301,L]
-AddType image/x-icon .ico
-RewriteRule ^favicon.ico favicon.ico [NC,L]
